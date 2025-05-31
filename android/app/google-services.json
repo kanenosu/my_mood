@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "526040431280",
+    "project_id": "my-mood-5652c",
+    "storage_bucket": "my-mood-5652c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526040431280:android:543955fead8a6b74a79975",
+        "android_client_info": {
+          "package_name": "com.example.my_mood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526040431280-qsbjscd0pr5ifoq92et8cos8rtles5c7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5-9V48g2uXiS03vj3GB2xL_qlGY0aMZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526040431280-qsbjscd0pr5ifoq92et8cos8rtles5c7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526040431280:android:96ea95f8b002e6dfa79975",
+        "android_client_info": {
+          "package_name": "com.mymood.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526040431280-qsbjscd0pr5ifoq92et8cos8rtles5c7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5-9V48g2uXiS03vj3GB2xL_qlGY0aMZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526040431280-qsbjscd0pr5ifoq92et8cos8rtles5c7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
