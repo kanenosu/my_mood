@@ -1,16 +1,27 @@
-# my_mood
+# 🌿 MyMood - Flutter日記アプリ
 
-A new Flutter project.
+## 📱 概要
 
-## Getting Started
+**MyMood** は、気軽に日々の感情と写真を記録できる「ゆるふわ系」日記アプリです。  
+現在はローカル環境での動作を優先し、後にクラウド同期機能を拡張予定です。
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🎯 主な機能 (MVP ver.)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 📅 日記投稿（テキスト・感情・写真添付）
+- 😊 感情記録（5段階評価 + タグ）
+- 📊 感情推移グラフ（折れ線 or バー予定）
+- 🗓 カレンダー表
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠 技術スタック
+
+- Flutter 3.x
+- Dart
+- Hive (ローカルDB)
+- Provider (状態管理)
+- Path Provider
+- Image Picker
+- intl (日付フォーマット)
