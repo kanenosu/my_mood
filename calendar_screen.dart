@@ -582,7 +582,7 @@ class _CalendarScreenState extends State<CalendarScreen> {
     if (index < 0 || index >= _emotionColors.length) return '😐';
     switch (index) {
       case 0: return '😢';
-      case 1: return '�';
+      case 1: return '😕';
       case 2: return '😐';
       case 3: return '🙂';
       case 4: return '😄';
