@@ -42,7 +42,7 @@ class _DiaryDetailScreenState extends State<DiaryDetailScreen> {
       case 2: return '😐';
       case 3: return '🙂';
       case 4: return '😄';
-      default: return '�';
+      default: return '😐';
     }
   }
 
